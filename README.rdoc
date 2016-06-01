@@ -1,3 +1,3 @@
-<b>Splurty</b>
+<b>SPLURTY</b>
 
-Splurty is a quote generator web application built on Ruby on Rails 4.0 currently serving quotes from the Game of Thrones series.  It features a simple layout with the ability for visitors to create new quotes using a Bootstrap modal form which can then be viewed by anyone.
+Splurty is a quote generator web application built on Ruby on Rails 4.0 currently serving quotes from the Game of Thrones series.  It features a simple layout leveraging Twitter Bootstrap 3 with the ability for visitors to create new quotes using a Bootstrap modal form which can then be viewed by anyone.
